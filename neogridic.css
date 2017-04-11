@@ -4,9 +4,9 @@
 body{margin:0}
 
 /*! Clearfix by Nicolas Gallagher */
-.row:before,.row:after,.clearfix:before,.clearfix:after{content:'';display:table}
-.row:after,.clearfix:after{clear:both}
-.row,.clearfix{zoom:1}
+.row:before,.row:after,.clearfix:before,.clearfix:after{content:' ';display:table;}
+.row:after,.clearfix:after{clear:both;}
+.row,.clearfix{*zoom:1;}
 
 /*! Gridiculous.css created by c.bavota | GPLv2 | https://github.com/cbavota/Gridiculous */
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}
