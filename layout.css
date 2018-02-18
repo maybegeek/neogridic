@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(44, 85, 108, 1.0);
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.block p {
+  text-align: center;
+  background-color: white;
+  color: rgba(44, 85, 108, 1.0);
+  font-size: 0.7em;
+}
