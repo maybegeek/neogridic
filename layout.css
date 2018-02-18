@@ -9,6 +9,10 @@ a {
   border-bottom: 2px solid white;
 }
 
+h1 {
+  font-size: 3.1em;
+}
+
 .block p {
   text-align: center;
   background-color: white;
