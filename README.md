@@ -1,4 +1,6 @@
-# neogridic
+# [neogridic](https://maybegeek.github.io/neogridic/)
+
+[Example Website](https://maybegeek.github.io/neogridic/)
 
 gridiculous, normalize.css and some css.
 
